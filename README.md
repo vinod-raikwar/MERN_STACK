@@ -1,2 +1,2 @@
 # MERN_STACK
-It is a MERN stack portfolio Website.
+SendMail using MERN or Email Validation.
